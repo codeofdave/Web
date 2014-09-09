@@ -19,8 +19,7 @@ body {
 <div style="text-align: center; font-size: xx-large;">&nbsp; <span style="font-weight: bold">Dawei&nbsp; Zhao
 </span></div>
 <div>
-<p align="left"><a href="Chinese.html">Translate into Chinese</a>
-<div style="font-size: x-large; font-weight: bolder;">Education</div>   </p>
+
 <li>
   <div align="left" style="font-size: large; font-style: normal;"> <span style="font-style: italic">2012.9-2015.4</span> &nbsp;&nbsp;&nbsp;&nbsp;Master of  Electronics and Communication Engineering  &nbsp;&nbsp;&nbsp;&nbsp;Xidian University.
   </div>
