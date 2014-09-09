@@ -4,13 +4,7 @@
 <meta charset="utf-8">
 <title>赵大为的简历</title>
 <style type="text/css">
-body,td,th {
-	color: #000;
-}
-body {
-	background-color: #FFF;
-	margin-left: 50px;
-}
+
 </style>
 </head>
 
