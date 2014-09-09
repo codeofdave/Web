@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="utf-8">
@@ -122,15 +122,6 @@ solving problem in the most fast and effective way.I have a strong aspiration of
   </tr>
 </table>
 
-<div style="font-size: x-large; font-weight: bolder;">
-  <p>Attachment</p>
-</div>
-<li><a href="ChineseResume.pdf">Chinese resume.pdf</a></li>
-<li><a href="EnglishResume.pdf">English resume.pdf</a></li>
-<li><a href="zhao.pdf">My paper</a></li>
-<li><a href="Some code（c++）for my paper.zip">Some simulation codes(c++) for my paper</a></li>
-<li><a href="JobHunter.zip">Introduction of Job Hunter </a></li>
-</div>
 
 <hr align="left">
 <span style="font-size: large; font-weight: bolder;">Contact information: <span style="font-weight: bolder">134-7447-0595</span> &nbsp;&nbsp;&nbsp;734388421@qq.com</span>
